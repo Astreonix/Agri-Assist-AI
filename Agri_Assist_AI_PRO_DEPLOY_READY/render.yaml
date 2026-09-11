@@ -1,0 +1,25 @@
+services:
+  - type: web
+    name: agri-assist-ai-api
+    runtime: docker
+    rootDir: backend
+    healthCheckPath: /health
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: OPENWEATHER_API_KEY
+        sync: false
+      - key: SECRET_KEY
+        generateValue: true
+      - key: ADMIN_EMAIL
+        sync: false
+      - key: DATABASE_URL
+        sync: false
+      - key: VECTOR_STORE
+        value: local
+      - key: CHROMA_PERSIST_DIR
+        value: vector_store
+      - key: GEMINI_MODEL
+        value: gemini-2.5-flash
+      - key: CORS_ORIGINS
+        value: "*"

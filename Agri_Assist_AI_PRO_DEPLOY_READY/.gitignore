@@ -1,0 +1,17 @@
+backend/.env
+backend/*.db
+backend/uploads/
+backend/knowledge_base/.rag_vector_index.joblib
+backend/vector_store/
+backend/venv/
+backend/ml_model/*.keras
+backend/ml_model/*.h5
+frontend/.dart_tool/
+frontend/build/
+frontend/node_modules/
+frontend/dist/
+agri_assist.db
+.idea/
+.vscode/
+__pycache__/
+*.pyc

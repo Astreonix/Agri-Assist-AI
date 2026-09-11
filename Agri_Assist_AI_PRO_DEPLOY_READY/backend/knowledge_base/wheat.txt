@@ -1,0 +1,5 @@
+Wheat management starter reference. Wheat decisions depend on cultivar, climate, soil fertility,
+planting date and water availability. Yellowing can have several causes including nutrient
+deficiency, water stress, root problems or disease. Exact fertilizer rates should be based on
+soil testing and local recommendations. Irrigation should consider soil moisture, growth stage
+and rainfall. Monitor weeds, insects and disease regularly.

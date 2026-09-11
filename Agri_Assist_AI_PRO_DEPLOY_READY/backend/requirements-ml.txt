@@ -1,0 +1,4 @@
+# Optional training environment for the local MobileNetV2 disease classifier.
+tensorflow
+tensorflow-datasets
+importlib-resources
