@@ -93,6 +93,11 @@ to provide a more useful agriculture-focused assistant.
 
 ---
 
+
+## 🔗 Live Demo
+
+**Web App:** [https://agri-assist-ai-amber.vercel.app](https://agri-assist-ai-amber.vercel.app)
+
 # ✨ Core Features
 
 ## 🤖 1. AI Agricultural Assistant
